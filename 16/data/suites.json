@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "pages",
+    "children" : [ {
+      "name" : "test_ddgo",
+      "children" : [ {
+        "name" : "test_basic_duckduckgo_search",
+        "uid" : "5af054b8940345c3",
+        "parentUid" : "0ec083f8f74def67500820a687467cdb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626523429509,
+          "stop" : 1626523436536,
+          "duration" : 7027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ec083f8f74def67500820a687467cdb"
+    } ],
+    "uid" : "004a1a27364a01c50febc0bd2507bb5c"
+  } ],
+  "name" : "suites"
+}

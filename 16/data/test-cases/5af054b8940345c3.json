@@ -1,0 +1,68 @@
+{
+  "uid" : "5af054b8940345c3",
+  "name" : "test_basic_duckduckgo_search",
+  "fullName" : "pages.test_ddgo#test_basic_duckduckgo_search",
+  "historyId" : "260b9e0c4722b18443a74dc51be81819",
+  "time" : {
+    "start" : 1626523429509,
+    "stop" : 1626523436536,
+    "duration" : 7027
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1626523427846,
+      "stop" : 1626523429507,
+      "duration" : 1661
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pages"
+  }, {
+    "name" : "suite",
+    "value" : "test_ddgo"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-287"
+  }, {
+    "name" : "thread",
+    "value" : "2787-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pages.test_ddgo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5af054b8940345c3.json",
+  "parameterValues" : [ ]
+}

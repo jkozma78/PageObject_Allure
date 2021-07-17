@@ -1,0 +1,22 @@
+{
+  "260b9e0c4722b18443a74dc51be81819" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5af054b8940345c3",
+      "reportUrl" : "https://jkozma78.github.io/PageObject_Allure/16//#testresult/5af054b8940345c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626523429509,
+        "stop" : 1626523436536,
+        "duration" : 7027
+      }
+    } ]
+  }
+}
