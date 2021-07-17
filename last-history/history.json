@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "6442b6f93270b12e",
+      "reportUrl" : "https://jkozma78.github.io/PageObject_Allure/16//#testresult/6442b6f93270b12e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626523841632,
+        "stop" : 1626523848624,
+        "duration" : 6992
+      }
+    }, {
       "uid" : "b55e33b8650d3d99",
       "reportUrl" : "https://jkozma78.github.io/PageObject_Allure/16//#testresult/b55e33b8650d3d99",
       "status" : "passed",
