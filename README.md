@@ -1,2 +1,3 @@
 # PageObject_Allure
-test1
+Page Object mintapélda
+Allure riport megjelenítése github pages segítségével
