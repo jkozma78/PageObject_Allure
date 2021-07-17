@@ -2,13 +2,18 @@ import time
 
 import pytest
 from selenium.webdriver import Chrome
-from search import DuckDuckGoSearchPage
-from results import DuckDuckGoResultPage
+from selenium.webdriver.chrome.options import Options
+from pages.search import DuckDuckGoSearchPage
+from pages.results import DuckDuckGoResultPage
 
 
 @pytest.fixture
 def browser():
-    driver = Chrome()
+    options = Options()
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')  # Last I checked this was necessary.
+
+    driver = Chrome(options=options)
     driver.implicitly_wait(10)
     return driver
 
