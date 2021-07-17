@@ -3,8 +3,8 @@ import time
 import pytest
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
-from pages.search import DuckDuckGoSearchPage
-from pages.results import DuckDuckGoResultPage
+from search import DuckDuckGoSearchPage
+from results import DuckDuckGoResultPage
 
 
 @pytest.fixture
