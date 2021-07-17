@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://jkozma78.github.io/PageObject_Allure",
+  "buildOrder" : 18,
+  "buildName" : "GitHub Actions Run #1040360138",
+  "buildUrl" : "https://github.com/jkozma78/PageObject_Allure/actions/runs/1040360138",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://jkozma78.github.io/PageObject_Allure/18/"
+} ]

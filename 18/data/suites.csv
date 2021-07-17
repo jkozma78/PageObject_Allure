@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 17 13:22:11 GMT 2021","Sat Jul 17 13:22:19 GMT 2021","8300","pages","test_ddgo","","","","test_basic_duckduckgo_search",""

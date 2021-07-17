@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az77-843",
+    "children" : [ {
+      "name" : "2738-MainThread",
+      "children" : [ {
+        "name" : "test_basic_duckduckgo_search",
+        "uid" : "da7c273185e2e7fd",
+        "parentUid" : "16e49b52498364d94aab87c6c78d5aaf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626528131358,
+          "stop" : 1626528139658,
+          "duration" : 8300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16e49b52498364d94aab87c6c78d5aaf"
+    } ],
+    "uid" : "519c3fb56fe4fabc79c73fd4672884dc"
+  } ],
+  "name" : "timeline"
+}
