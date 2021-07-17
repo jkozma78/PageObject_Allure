@@ -6,13 +6,13 @@
       "name" : "test_ddgo",
       "children" : [ {
         "name" : "test_basic_duckduckgo_search",
-        "uid" : "5af054b8940345c3",
+        "uid" : "1b1184edf4555b60",
         "parentUid" : "0ec083f8f74def67500820a687467cdb",
         "status" : "passed",
         "time" : {
-          "start" : 1626523429509,
-          "stop" : 1626523436536,
-          "duration" : 7027
+          "start" : 1626523435881,
+          "stop" : 1626523443334,
+          "duration" : 7453
         },
         "flaky" : false,
         "newFailed" : false,

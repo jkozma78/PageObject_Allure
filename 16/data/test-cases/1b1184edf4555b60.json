@@ -1,12 +1,12 @@
 {
-  "uid" : "5af054b8940345c3",
+  "uid" : "1b1184edf4555b60",
   "name" : "test_basic_duckduckgo_search",
   "fullName" : "pages.test_ddgo#test_basic_duckduckgo_search",
   "historyId" : "260b9e0c4722b18443a74dc51be81819",
   "time" : {
-    "start" : 1626523429509,
-    "stop" : 1626523436536,
-    "duration" : 7027
+    "start" : 1626523435881,
+    "stop" : 1626523443334,
+    "duration" : 7453
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "browser",
     "time" : {
-      "start" : 1626523427846,
-      "stop" : 1626523429507,
-      "duration" : 1661
+      "start" : 1626523433938,
+      "stop" : 1626523435878,
+      "duration" : 1940
     },
     "status" : "passed",
     "steps" : [ ],
@@ -36,10 +36,10 @@
     "value" : "test_ddgo"
   }, {
     "name" : "host",
-    "value" : "fv-az39-287"
+    "value" : "fv-az74-654"
   }, {
     "name" : "thread",
-    "value" : "2787-MainThread"
+    "value" : "2826-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -63,6 +63,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5af054b8940345c3.json",
+  "source" : "1b1184edf4555b60.json",
   "parameterValues" : [ ]
 }

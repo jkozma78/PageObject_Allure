@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5af054b8940345c3",
-      "reportUrl" : "https://jkozma78.github.io/PageObject_Allure/16//#testresult/5af054b8940345c3",
+      "uid" : "1b1184edf4555b60",
+      "reportUrl" : "https://jkozma78.github.io/PageObject_Allure/16//#testresult/1b1184edf4555b60",
       "status" : "passed",
       "time" : {
-        "start" : 1626523429509,
-        "stop" : 1626523436536,
-        "duration" : 7027
+        "start" : 1626523435881,
+        "stop" : 1626523443334,
+        "duration" : 7453
       }
     } ]
   }

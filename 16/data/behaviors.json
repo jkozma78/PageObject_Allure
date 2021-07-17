@@ -2,13 +2,13 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "test_basic_duckduckgo_search",
-    "uid" : "5af054b8940345c3",
+    "uid" : "1b1184edf4555b60",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1626523429509,
-      "stop" : 1626523436536,
-      "duration" : 7027
+      "start" : 1626523435881,
+      "stop" : 1626523443334,
+      "duration" : 7453
     },
     "flaky" : false,
     "newFailed" : false,
