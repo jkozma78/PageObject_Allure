@@ -1,10 +1,10 @@
 [ {
-  "uid" : "1b1184edf4555b60",
+  "uid" : "b55e33b8650d3d99",
   "name" : "test_basic_duckduckgo_search",
   "time" : {
-    "start" : 1626523435881,
-    "stop" : 1626523443334,
-    "duration" : 7453
+    "start" : 1626523431918,
+    "stop" : 1626523438789,
+    "duration" : 6871
   },
   "status" : "passed",
   "severity" : "normal"
